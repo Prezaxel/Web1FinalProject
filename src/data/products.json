@@ -1,0 +1,115 @@
+[
+  {
+    "id": 1,
+    "name": "KLIP KMO-120BK Mouse",
+    "price": 206.93,
+    "image": "/mouse1.png",
+    "category": "Mice",
+    "description": "Gaming Mouse with changeable DPI, ranging from 1,000 DPI to 20,000DPI"
+  },
+  {
+    "id": 2,
+    "name": "USB Cable XTC-306",
+    "price": 108.04,
+    "image": "/usb-cable.png",
+    "category": "Cables",
+    "description": "USB C cable. Length: 1.0 m. Color: Black"
+  },
+  {
+    "id": 3,
+    "name": "KLIP KMO-104 Mouse",
+    "price": 199.60,
+    "image": "/mouse2.png",
+    "category": "Mice",
+    "description": "Gaming Mouse with changeable DPI, ranging from 1,000 DPI to 20,000DPI"
+  },
+  {
+    "id": 4,
+    "name": "Asus Tuf RTX 4070 GPU",
+    "price": 699.99,
+    "image": "/gpu-asustuf-rtx4070.png",
+    "category": "GPU",
+    "description": "Powerful GPU for gaming and rendering."
+  },
+  {
+    "id": 5,
+    "name": "Intel Core i9-13900K",
+    "price": 589.99,
+    "image": "/gpu-asustuf-rtx4070.png",
+    "category": "CPU",
+    "description": "High-performance 13th Gen processor."
+  },
+  {
+    "id": 6,
+    "name": "NZXT H510 Case",
+    "price": 99.99,
+    "image": "/case-nzxt-h510.png",
+    "category": "Case",
+    "description": "Minimalistic case with tempered glass panel."
+  },
+  {
+    "id": 7,
+    "name": "ASUS ROG STRIX B650 Motherboard",
+    "price": 259.99,
+    "image": "/motherboard-asus-rog-strix-b650.png",
+    "category": "Motherboard",
+    "description": "AM5 socket, PCIe 5.0, DDR5."
+  },
+  {
+    "id": 8,
+    "name": "Corsair Vengeance 32GB DDR5 RAM",
+    "price": 169.99,
+    "image": "/ram-corsair-vengeance-32gb.png",
+    "category": "RAM",
+    "description": "High-speed memory with RGB."
+  },
+  {
+    "id": 9,
+    "name": "Samsung 980 PRO 1TB NVMe SSD",
+    "price": 139.99,
+    "image": "/ssd-samsung-980-1tb.png",
+    "category": "Storage",
+    "description": "Blazing fast SSD for gaming and productivity."
+  },
+  {
+    "id": 10,
+    "name": "MSI G27C4 E3 27-inch 144Hz Display",
+    "price": 229.99,
+    "image": "/monitor-msi-g27c4-e3.png",
+    "category": "Display",
+    "description": "Gaming monitor with high refresh rate."
+  },
+  {
+    "id": 11,
+    "name": "EVGA 750W Power Supply",
+    "price": 89.99,
+    "image": "/psu-evga-750w-supernova.png",
+    "category": "Power Supply",
+    "description": "80+ Gold Certified PSU with modular cables."
+  },
+  {
+    "id": 12,
+    "name": "Noctua NF-A12x25 Cooling Fan",
+    "price": 29.99,
+    "image": "/fan-noctua-nf-a12x25.png",
+    "category": "Cooling Fans",
+    "description": "Silent and efficient cooling fan."
+  },
+  {
+    "id": 13,
+    "name": "TP-Link AX3000 Wi-Fi 6 Router",
+    "price": 99.99,
+    "image": "/router-tplink-ax3000.png",
+    "category": "Networking",
+    "description": "Fast Wi-Fi 6 router for gaming and streaming."
+  },
+  {
+    "id": 14,
+    "name": "Logitech G915 Wireless Keyboard",
+    "price": 199.99,
+    "image": "/keyboard-logitech-g915-wireless.png",
+    "category": "Keyboards",
+    "description": "Low-profile mechanical wireless gaming keyboard."
+  }
+
+]
